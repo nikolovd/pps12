@@ -13,7 +13,7 @@ case{'yel'}
   a = 4;
 case{'gre'}
   a = 5;
-case{'blu'}
+case{'blu1'}
   a = 6;
 case{'vio'}
   a = 7;
