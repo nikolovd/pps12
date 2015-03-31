@@ -19,7 +19,7 @@ case{'vio'}
   a = 7;
 case{'gre'}
   a = 8;
-case{'whi'}
+case{'whi1'}
   a = 9;
 end
 
